@@ -1351,7 +1351,7 @@ const App = () => {
                   </div>
                   <h3 className="text-xl font-bold text-gray-900 mb-2">Mensalidade</h3>
                   <p className="text-gray-600 mb-4">IA + painel + suporte + tráfego</p>
-                  <div className="text-3xl font-bold text-nocta-purple mb-4">R$ 2.000</div>
+                  <div className="text-3xl font-bold text-nocta-purple mb-4">R$ 1.500</div>
                   
                   {/* Included Features */}
                   <div className="text-left space-y-2">
